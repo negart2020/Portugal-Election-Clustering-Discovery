@@ -23,4 +23,4 @@ This project explores the 2019 Portugal Election results through the lens of Uns
 <img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/7b807ec6-f55d-4cfc-bafa-48420c68f28c" />
 <img width="942" height="790" alt="image" src="https://github.com/user-attachments/assets/eb11b0e6-819d-4eed-9008-ec546499c757" />
 
-Note: For the predictive (Supervised) modeling of this dataset, check out my other repository: [Link to your first repo]
+Note: For the predictive (Supervised) modeling of this dataset, check out my other repository: https://github.com/negart2020/Portugal-Election-Results-Prediction

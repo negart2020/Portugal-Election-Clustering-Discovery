@@ -3,7 +3,7 @@
 This project explores the 2019 Portugal Election results through the lens of Unsupervised Learning. Instead of predicting outcomes, it focuses on identifying hidden similarities between electoral districts and reducing data complexity.
 
 ### 📅 Project Context
-- **Developed**: Summer 2024 (Mordad 1403)
+- **Developed**: Summer 2025 (Mordad 1404)
 - **Dataset**: Portugal Real-time Election Results (2019)
 - **Objective**: Uncovering latent voting structures and regional clusters.
 
